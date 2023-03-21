@@ -63,7 +63,7 @@ argument.yml
 - Note that the number of elements in `x_shift_range`,  `y_shift_range`, `z_shift_range`, `traj_types` and `video_postfix` should be equal.
 - `specific: '' `
     - The specific image name, use this to specify the image to be executed. By default, all the image in the folder will    be executed.
-- `longer_side_len: 960`
+- `longer_side_len: 1280`
     - The length of larger dimension in output resolution.
 - `src_folder: image`
     - Input image directory. 
